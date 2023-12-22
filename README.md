@@ -53,7 +53,7 @@
 
 ## 사이트 주소 🔗
 
-배포 URL: https://taupe-dusk-008178.netlify.app/
+배포 URL: https://crm-js-project.netlify.app
 
 ## 화면 구성 🖥️
 
